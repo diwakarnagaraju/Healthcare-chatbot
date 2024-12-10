@@ -84,7 +84,7 @@ Interact with the chatbot by typing your healthcare-related questions in the cha
 
 ---
 
-# Project Structure
+## Project Structure
 
 - healthcare-chatbot/
 - ├── app.py                # Main application file
