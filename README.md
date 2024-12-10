@@ -85,7 +85,7 @@ Interact with the chatbot by typing your healthcare-related questions in the cha
 
 ## Images
 
-![Greetings](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/680716ade6620b90ae9acd8b00cb4602a82f5bce/greetings.png)
+![Greetings](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/680716ade6620b90ae9acd8b00cb4602a82f5bce/greetings.png "Greetings")
 
 
 
