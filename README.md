@@ -85,7 +85,7 @@ Interact with the chatbot by typing your healthcare-related questions in the cha
 
 ## Images
 
-![Greetings!]([image_path_or_url](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/main/greetings.png))
+![Greetings!]([image_path_or_url](https://github.com/diwakarnagaraju/Healthcare-chatbot/blob/main/greetings.png "Greetings")
 
 
 
