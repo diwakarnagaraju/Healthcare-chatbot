@@ -1,4 +1,3 @@
-# Healthcare-chatbot
 # Healthcare Chatbot
 
 A smart and interactive chatbot designed to assist users with healthcare-related queries, providing quick and accurate information on symptoms, treatments, and nearby healthcare facilities.
@@ -48,3 +47,10 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/diwakarnagaraju/healthcare-chatbot.git
+2.Navigate to the project directory:
+
+   cd healthcare-chatbot
+
+  python -m venv venv
+source venv/bin/activate # On Windows: `venv\Scripts\activate`
+
