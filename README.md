@@ -9,10 +9,11 @@ A smart and interactive chatbot designed to assist users with healthcare-related
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Project Structure](#project-structure)
-6. [API Integration](#api-integration)
-7. [Future Enhancements](#future-enhancements)
-8. [Contact](#contact)
+5. [Images](#images).
+6. [Project Structure](#project-structure)
+7. [API Integration](#api-integration)
+8. [Future Enhancements](#future-enhancements)
+9. [Contact](#contact)
 
 ---
 
@@ -81,6 +82,10 @@ Interact with the chatbot by typing your healthcare-related questions in the cha
 - Directions to nearby healthcare facilities.
 
 ---
+
+## Images
+
+
 
 ## Project Structure
 
