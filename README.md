@@ -12,9 +12,7 @@ A smart and interactive chatbot designed to assist users with healthcare-related
 5. [Project Structure](#project-structure)
 6. [API Integration](#api-integration)
 7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+8. [Contact](#contact)
 
 ---
 
